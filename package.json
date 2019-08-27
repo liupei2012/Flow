@@ -1,0 +1,19 @@
+{
+  "name": "flow",
+  "version": "1.0.0",
+  "description": "流程管理flow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liupei2012/Flow.git"
+  },
+  "author": "liupei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liupei2012/Flow/issues"
+  },
+  "homepage": "https://github.com/liupei2012/Flow#readme"
+}
